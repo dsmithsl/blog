@@ -2,7 +2,7 @@
 author: dsmith
 title: What can I do as a Software Developer to help with the climate crisis?
 summary: The goal of this post is to introduce some tools and techniques you can use to figure out what's the most effective climate action you can take given your circumstances. I'll give some examples of ways you can use your skills as a software developer to help out with climate solutions.
-layout: default_post.
+layout: default_post
 category: sustainability
 ---
 

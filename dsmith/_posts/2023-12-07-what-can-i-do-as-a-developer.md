@@ -1,15 +1,20 @@
 ---
 author: dsmith
-title: What can I do as a Developer to help out with the climate crisis?
+title: What can I do as a Software Developer to help with the climate crisis?
+summary: The goal of this post is to introduce some tools and techniques you can use to figure out what's the most effective climate action you can take given your circumstances. I'll give some examples of ways you can use your skills as a software developer to help out with climate solutions.
 layout: default_post.
 category: sustainability
 ---
 
 According to ONS [three quarters of adults](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/threequartersofadultsingreatbritainworryaboutclimatechange/2021-11-05) in Great Britain worry about climate change.
 
-It can be difficult to know what to do with these feelings because the crisis is real and not going away any time soon. Climate Psychotherapist and researcher Caroline Hickman recommends [practicing a form of ‘radical hope’](https://www.greenpeace.org.uk/news/eco-anxiety-how-to-find-radical-hope-in-a-climate-crisis/) by transforming eco-anxiety into action.
+It can be difficult to know what to do about this concern because to a certain extent it's completely rational. The crisis is real and not going away any time soon. Climate Psychotherapist and researcher Caroline Hickman recommends [practicing a form of ‘radical hope’](https://www.greenpeace.org.uk/news/eco-anxiety-how-to-find-radical-hope-in-a-climate-crisis/) by transforming eco-anxiety into action.
 
 But what action can you take to be most effective? Taking steps to limit your own personal carbon footprint is great as a way to live by your values but arguably the [impact you can have this way is limited](https://gimletmedia.com/shows/howtosaveaplanet/xjh53gn).
+
+The goal of this post is to introduce some tools and techniques you can use to figure out what's the most effective climate action you can take given your circumstances. I'll give some examples of ways you can use your skills as a software developer to help out with climate solutions.
+
+### How to find joy in climate action
 
 In her TED talk ["How to find joy in climate action”](https://www.ted.com/talks/ayana_elizabeth_johnson_how_to_find_joy_in_climate_action) which has been viewed over a million times, Dr Ayanna Elizabeth Johnson presented a technique called the [climate action venn diagram"](https://www.ayanaelizabeth.com/climatevenn).
 
@@ -23,7 +28,9 @@ Going back to the third and final criteria, that is: what needs doing. There is 
 
 A lot of this is waste, as Oliver Cronk said in his post: [Conscientious Computing - facing into big tech challenges](https://blog.scottlogic.com/2023/10/26/conscientious-computing-facing-into-big-tech-challenges.html): “Bloated, wasteful applications contribute to growing energy consumption and carbon emissions from data centres. They strain local resources for power and cooling. Materials and energy used in the manufacturing and supply chain (aka embodied carbon from hardware) are almost completely hidden and unknown.”.
 
-The problem is massive and it's easy to get a bit powerless. One way to work out where you do have power and the best ways to take action is to look at your [circles of concern, influence and control](https://positivepsychology.com/circles-of-influence/#understanding-the-theory-a-model-and-diagram). 
+### What can I do?
+
+The problem is massive and it's easy to get a bit powerless. One way to work out where you do have power and the best ways to take action is to look at your [circles of concern, influence and control](https://positivepsychology.com/circles-of-influence/#understanding-the-theory-a-model-and-diagram).
 
 This exercise consists of drawing out three nested circles: in the central circle you write all the things you can control, in the middle one you put all the things you can influence and the outer circle is for all the things that affect you but are outside your control. Doing this lets you focus on things within the inner two circles and less on things from the outer one (since you're acknowledging there is nothing you can do about these anyway).
 
@@ -40,6 +47,8 @@ If you’re lucky sustainability will already be a priority for your company. Th
 Your day job isn’t the only way to make an impact as a developer though, another is through contributions to Open Source software. For example, SQLLite, an open source database, is running on an estimated [trillion devices worldwide](https://www.sqlite.org/mostdeployed.html). Even a small sustainability improvement to that project is worthwhile. There are also loads of specific sustainability focused open source projects you can support and help to maintain.
 
 I’ve made some suggestions for things which might fit into your circles of control and influence. Some of these may suit your circumstances, some may not and there will also be things you can think of that I haven't. This is definitely an exercise that’s worth doing yourself to get the most out of it.
+
+# Implementation [is the] sexiest word in the English language
 
 In the end your list might not seem particularly sexy or impressive. That’s okay as long as they're things you're passionate about and excited to get started with. Remember, as Dr Johnson says: ‘implementation \[is the] sexiest word in the English language”.
 

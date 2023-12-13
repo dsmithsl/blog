@@ -30,7 +30,7 @@ A lot of this is waste, as Oliver Cronk said in his post: [Conscientious Computi
 
 ### What can I do?
 
-The problem is massive and it's easy to get a bit powerless. One way to work out where you do have power and the best ways to take action is to look at your [circles of concern, influence and control](https://positivepsychology.com/circles-of-influence/#understanding-the-theory-a-model-and-diagram).
+The problem is massive and it's easy to feel a bit powerless. One way to work out where you do have power and the best ways to take action is to look at your [circles of concern, influence and control](https://positivepsychology.com/circles-of-influence/#understanding-the-theory-a-model-and-diagram).
 
 This exercise consists of drawing out three nested circles: in the central circle you write all the things you can control, in the middle one you put all the things you can influence and the outer circle is for all the things that affect you but are outside your control. Doing this lets you focus on things within the inner two circles and less on things from the outer one (since you're acknowledging there is nothing you can do about these anyway).
 

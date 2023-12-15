@@ -20,6 +20,8 @@ In her TED talk ["How to find joy in climate action”](https://www.ted.com/talk
 
 By using this technique you can find the intersection between what brings you joy, what you're good at and what needs doing.
 
+![The Climate Action Venn Diagram consists of three overlapping circles, one contains the things that bring you joy, one contains what you're good and and one contains what needs doing. At the intersection of these three circles is your climate action.]({{ site.github.url }}/dsmith/assets/climate-action-template.svg "A template for your Climate Action Venn Diagram.")
+
 If you're reading this post you're most likely working in a technical role. If so, you're probably passionate about technology and quite good at it. That automatically fulfills two of the criteria.
 
 It's worth noting, however, that to get the best results from the exercise you should give it some serious consideration. You may have other passions outside of work that can also fit the bill. Remember you don't have to put just one thing in the middle of that diagram and there are many ways to contribute.
@@ -33,6 +35,8 @@ A lot of this is waste, as Oliver Cronk said in his post: [Conscientious Computi
 The problem is massive and it's easy to feel a bit powerless. One way to work out where you do have power and the best ways to take action is to look at your [circles of concern, influence and control](https://positivepsychology.com/circles-of-influence/#understanding-the-theory-a-model-and-diagram).
 
 This exercise consists of drawing out three nested circles: in the central circle you write all the things you can control, in the middle one you put all the things you can influence and the outer circle is for all the things that affect you but are outside your control. Doing this lets you focus on things within the inner two circles and less on things from the outer one (since you're acknowledging there is nothing you can do about these anyway).
+
+![The three nested circles of concern, influence and control.]({{ site.github.url }}/dsmith/assets/circles-of-concern.svg "A template for circles of concern.")
 
 Starting with the circle of control, the one area where you probably have the most control is on your own awareness about green computing issues and best practices. There are lots of resources available and too many to mention here but a few notable ones are: the [Green Software Practitioner](https://learn.greensoftware.foundation/) course from the Green Software Foundation and the O’Reilly book [Building Green Software](https://www.oreilly.com/library/view/building-green-software/9781098150617/).
 

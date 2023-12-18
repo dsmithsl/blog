@@ -42,7 +42,7 @@ Starting with the circle of control, the one area where you probably have the mo
 
 As you build awareness of best practices you can start to implement these in your day job. This is an area where you also have a lot of control. You can start to write sustainable code by default. This can also bring a lot of benefits to your users since sustainable code is often more efficient and gives better performance to users.
 
-Moving into the circle of influence, once you have a solid understanding of good practices you can start to share these with your team. Through informal chats with our colleagues, internal talks and communities of practice you can help others to also make considerations around sustainability a key part of their work.
+Moving into the circle of influence, once you have a solid understanding of good practices you can start to share these with your team. Through informal chats with your colleagues, internal talks and communities of practice you can help others to also make considerations around sustainability a key part of their work.
 
 These things will help with making new code sustainable, but to rewrite existing code you’ll probably require larger investment and buy-in from stakeholders. You can start to influence this by sharing the benefits of sustainable code and how these align with the wider objectives of your business such as cost savings, more efficient code and better user experience.
 

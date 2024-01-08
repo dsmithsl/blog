@@ -24,7 +24,9 @@ It's worth noting, however, that to get the best results from the exercise you s
 
 Going back to the third and final criteria, that is: what needs doing. There is definitely plenty that needs doing in ICT. The sector [is responsible for an estimated 3 to 4% of global CO2 emissions and some projections see it growing to 14% by 2040](https://www.bcg.com/press/24june2021-telco-sector-game-changer-sustainability-shrinking-carbon-footprints).
 
-A lot of this is waste, as Oliver Cronk said in his post: [Conscientious Computing - facing into big tech challenges](https://blog.scottlogic.com/2023/10/26/conscientious-computing-facing-into-big-tech-challenges.html): “Bloated, wasteful applications contribute to growing energy consumption and carbon emissions from data centres. They strain local resources for power and cooling. Materials and energy used in the manufacturing and supply chain (aka embodied carbon from hardware) are almost completely hidden and unknown”.
+A lot of this is waste, as Oliver Cronk said in his post: [Conscientious Computing - facing into big tech challenges](https://blog.scottlogic.com/2023/10/26/conscientious-computing-facing-into-big-tech-challenges.html):
+
+> “Bloated, wasteful applications contribute to growing energy consumption and carbon emissions from data centres. They strain local resources for power and cooling. Materials and energy used in the manufacturing and supply chain (aka embodied carbon from hardware) are almost completely hidden and unknown”. - Oliver Cronk
 
 ### What can I do?
 

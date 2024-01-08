@@ -24,7 +24,7 @@ It's worth noting, however, that to get the best results from the exercise you s
 
 Going back to the third and final criteria, that is: what needs doing. There is definitely plenty that needs doing in ICT. The sector [is responsible for an estimated 3 to 4% of global CO2 emissions and some projections see it growing to 14% by 2040](https://www.bcg.com/press/24june2021-telco-sector-game-changer-sustainability-shrinking-carbon-footprints).
 
-A lot of this is waste, as Oliver Cronk said in his post: [Conscientious Computing - facing into big tech challenges](https://blog.scottlogic.com/2023/10/26/conscientious-computing-facing-into-big-tech-challenges.html): “Bloated, wasteful applications contribute to growing energy consumption and carbon emissions from data centres. They strain local resources for power and cooling. Materials and energy used in the manufacturing and supply chain (aka embodied carbon from hardware) are almost completely hidden and unknown.”.
+A lot of this is waste, as Oliver Cronk said in his post: [Conscientious Computing - facing into big tech challenges](https://blog.scottlogic.com/2023/10/26/conscientious-computing-facing-into-big-tech-challenges.html): “Bloated, wasteful applications contribute to growing energy consumption and carbon emissions from data centres. They strain local resources for power and cooling. Materials and energy used in the manufacturing and supply chain (aka embodied carbon from hardware) are almost completely hidden and unknown”.
 
 ### What can I do?
 
@@ -50,6 +50,8 @@ Your day job isn’t the only way to make an impact as a developer though, anoth
 
 In this post I've discussed a couple of exercises which can help you to get started with climate action. These are exercises that are worth doing yourself to get the most out of them. Remember the climate action venn diagram and ensure that your planned actions aren't just things within your control/influence but also things you're passionate about and excited to get started doing.
 
-It's also worth bearing in mind the best way to create effective action is to work together with others. Oliver and Jake's roundup of the [Sustainable Computing Ecosystem](https://blog.scottlogic.com/2023/11/09/the-sustainable-computing-ecosystem.html) is a great resource to help you find like-minded individuals to share ideas and approaches.
+It's also worth bearing in mind the best way to create effective action is to work together with others. This roundup of the [Sustainable Computing Ecosystem](https://blog.scottlogic.com/2023/11/09/the-sustainable-computing-ecosystem.html) is a great resource to help you find like-minded individuals to share ideas and approaches.
 
-I'll leave you with a quote from Dr Johnson which I find particularly inspiring: “This is what I know. There are innumerable possible futures. I know we each get some say in the future we'll collectively have, and a chance to help build it. I know that each 10th of a degree of warming we prevent, every centimetre of sea level rise we avoid, every bit of nature we protect and restore matters I know that our actions add up. This? This is an invitation. Find your role if you haven't already, encourage others to find theirs. Averting climate catastrophe: this is the work of our lifetimes.”
+I'll leave you with a quote from Dr Johnson which I find particularly inspiring:
+
+> “This is what I know. There are innumerable possible futures. I know we each get some say in the future we'll collectively have, and a chance to help build it. I know that each 10th of a degree of warming we prevent, every centimetre of sea level rise we avoid, every bit of nature we protect and restore matters I know that our actions add up. This? This is an invitation. Find your role if you haven't already, encourage others to find theirs. Averting climate catastrophe: this is the work of our lifetimes.” - Dr Ayana Elizabeth Johnson
